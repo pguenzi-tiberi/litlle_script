@@ -1,1 +1,1 @@
-# litlle_script
+# little_script
